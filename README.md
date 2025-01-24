@@ -43,7 +43,7 @@ This lab project is based on Eric Capuano's blog series, *"So You Want to Be a S
 - **Ubuntu Server 22.04.1**: Hosted attacker tools and command-and-control (C2) framework.
 - **Windows 10 Development VM**: Configured for telemetry collection and detection rule testing.
 
-### Endpoint Detection and Response (EDR)
+### Endpoint Detection (EDR) & Threat Rule Development
 - **LimaCharlie**: Real-time telemetry and detection rule management.
 - **Sysmon**: Captured detailed event logs for process, network, and file activity.
 - **YARA**: Developed detection rules for malware and malicious processes.
